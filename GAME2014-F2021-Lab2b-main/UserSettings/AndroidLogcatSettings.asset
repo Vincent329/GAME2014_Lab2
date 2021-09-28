@@ -1,41 +1,47 @@
 {
-    "m_SelectedDeviceId": "127.0.0.1:5555",
+    "m_SelectedDeviceId": "emulator-5554",
     "m_SelectedPackage": {
-        "deviceId": "127.0.0.1:5555",
-        "name": "ca.georgebrown.game2014.f2021.lab2b",
-        "processId": 3027,
+        "deviceId": "",
+        "name": "",
+        "processId": 0,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
         {
             "deviceId": "emulator-5554",
-            "name": "ca.georgebrown.game2014.f2021.lab1b",
-            "processId": 5410,
-            "exited": false
-        },
-        {
-            "deviceId": "emulator-5554",
-            "name": "ca.georgebrown.game2014.f2021.lab1b",
-            "processId": 5704,
-            "exited": false
-        },
-        {
-            "deviceId": "emulator-5554",
-            "name": "ca.georgebrown.game2014.f2021.lab2b",
-            "processId": 5698,
-            "exited": false
-        },
-        {
-            "deviceId": "emulator-5554",
             "name": "ca.georgebrown.game2014.f2021.lab2b",
             "processId": 5893,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "emulator-5554",
             "name": "ca.georgebrown.game2014.f2021.lab2b",
             "processId": 6093,
+            "exited": true
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "ca.georgebrown.game2014.f2021.lab2b",
+            "processId": 2808,
+            "exited": true
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "ca.georgebrown.game2014.f2021.lab2b",
+            "processId": 3044,
+            "exited": true
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "ca.georgebrown.game2014.f2021.lab2b",
+            "processId": 3212,
+            "exited": true
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.ldmnq.launcher3",
+            "processId": 1882,
             "exited": false
         },
         {
